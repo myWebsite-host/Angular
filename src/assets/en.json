@@ -1,0 +1,15 @@
+{
+  "app.title": "Organisation Directory",
+  "search.placeholder": "Search by name...",
+  "filter.allStatus": "All Statuses",
+  "table.name": "Name",
+  "table.status": "Status",
+  "table.members": "Members",
+  "table.owner": "Owner",
+  "table.created": "Created Date",
+  "table.empty": "No organisations found.",
+  "table.loading": "Loading organisations...",
+  "table.error": "Failed to load organisations. Please try again.",
+  "btn.add": "Add Organisation",
+  "btn.submit": "Save Organisation"
+}
